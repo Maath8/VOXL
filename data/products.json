@@ -1,0 +1,62 @@
+[
+  {
+    "id": "broom-holder",
+    "name": "Broom Holder",
+    "description": "Süpürge ve moplarınızı dağınıklıktan kurtarın! Dayanıklı tasarımıyla kolayca monte edilir, yerden tasarruf sağlar ve her şeyi düzenli tutar.",
+    "material": "PLA",
+    "dimensions": "12 x 8 x 5 cm",
+    "imageUrl": "/images/broom-holder.png",
+    "isFeatured": true,
+    "price": 149
+  },
+  {
+    "id": "cable-organizer",
+    "name": "Kablo Düzenleyici",
+    "description": "Masanızdaki kablo karmaşasını sonlandırın. Güçlü yapısıyla kablolarınızı düzenli ve erişilebilir tutar.",
+    "material": "PETG",
+    "dimensions": "6 x 3 x 2 cm",
+    "imageUrl": "/images/cable-organizer.png",
+    "isFeatured": false,
+    "price": 79
+  },
+  {
+    "id": "phone-stand",
+    "name": "Telefon Standı",
+    "description": "Telefonunuzu rahat bir açıyla tutun. Ergonomik tasarımı ile hem çalışırken hem de video izlerken ideal bir açı sağlar.",
+    "material": "PLA",
+    "dimensions": "10 x 9 x 8 cm",
+    "imageUrl": "/images/phone-stand.png",
+    "isFeatured": true,
+    "price": 119
+  },
+  {
+    "id": "wall-hook",
+    "name": "Duvar Askısı",
+    "description": "Güçlü ve şık duvar askısı. Ceket, çanta veya şapkalarınızı düzenli tutmak için mükemmel bir çözüm.",
+    "material": "PLA",
+    "dimensions": "8 x 4 x 3 cm",
+    "imageUrl": "/images/wall-hook.png",
+    "isFeatured": false,
+    "price": 69
+  },
+  {
+    "id": "pen-holder",
+    "name": "Kalem Kutusu",
+    "description": "Altıgen geometrik tasarımıyla masanıza estetik bir dokunuş. Kalem, makas ve diğer kırtasiye malzemelerinizi organize eder.",
+    "material": "PETG",
+    "dimensions": "9 x 9 x 12 cm",
+    "imageUrl": "/images/pen-holder.png",
+    "isFeatured": false,
+    "price": 99
+  },
+  {
+    "id": "headphone-stand",
+    "name": "Kulaklık Standı",
+    "description": "Kulaklığınıza layık olduğu yeri verin. Şık ve sağlam yapısıyla masanızın üzerinde zarif bir görünüm sağlar.",
+    "material": "PLA",
+    "dimensions": "15 x 10 x 22 cm",
+    "imageUrl": "/images/headphone-stand.png",
+    "isFeatured": false,
+    "price": 189
+  }
+]
